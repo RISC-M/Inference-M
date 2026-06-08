@@ -1,0 +1,29 @@
+# Virtual Environments
+rvv_tvm_env/
+venv/
+env/
+
+# Third-Party Source Code
+tvm_src/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# C/C++ Compiled Binaries
+*.so
+*.o
+*.a
+
+# Build directories and temporary links
+build/
+*.egg-info/
+*.pth
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
