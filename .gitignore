@@ -27,3 +27,9 @@ build/
 .vscode/
 .idea/
 .DS_Store
+
+# Compiled binaries and executables
+*.elf
+
+# TVM generated assembly
+*.s
